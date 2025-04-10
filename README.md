@@ -5,7 +5,7 @@
 
 # Discord Bot for Kicking Admin Impersonators
 
-This Discord bot is designed to automatically kick members who are impersonating the server owner or admins in Discord servers. It identifies potential impersonators by comparing their usernames, nicknames, and profile pictures with the server's administrators using regular expressions and image similarity. Made by Sehaj (dxstiny) and Aman (r3sist).
+This Discord bot is designed to automatically kick members who are impersonating the server owner or admins in Discord servers. It identifies potential impersonators by comparing their usernames, nicknames, and profile pictures with the server's administrators using regular expressions and image similarity. 
 
 ## Installation and Setup
 
