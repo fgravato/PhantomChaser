@@ -61,7 +61,7 @@ pip install discord.py python-dotenv requests Pillow imagehash python-Levenshtei
 4. Copy the generated URL and open it in your browser
 5. Select the server you want to add the bot to and click "Authorize"
 
-Alternatively, you can use this URL to invite the bot to your server (if it's already hosted): [Invite](https://discord.com/api/oauth2/authorize?client_id=1104343553875914793&permissions=402655382&scope=bot) (Note: This link may need to be updated for the new bot)
+
 
 ### Step 5: Run the Bot
 
