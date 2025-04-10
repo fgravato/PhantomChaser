@@ -1,6 +1,6 @@
 # PhantomChaser
 <p align="center">
-  <img src="https://github.com/r3sist-uniq/ImposterSecurityBot/assets/72573738/bb53d5dc-6075-4013-829f-d6ec5350572d" alt="phantom-chaser-logo"/>
+  <img src="https://github.com/fgravato/PhantomChaser/banner.png" alt="phantom-chaser-logo"/>
 </p>
 
 # Discord Bot for Kicking Admin Impersonators
