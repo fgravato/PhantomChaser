@@ -1,6 +1,6 @@
 # PhantomChaser
 <p align="center">
-  <img src="h[ttps://github.com/fgravato/PhantomChaser/banner.png](https://github.com/fgravato/PhantomChaser/blob/main/banner.png?raw=true)" alt="phantom-chaser-logo"/>
+  <img src="https://github.com/fgravato/PhantomChaser/blob/main/banner.png?raw=true" alt="phantom-chaser-logo"/>
 </p>
 
 # Discord Bot for Kicking Admin Impersonators
